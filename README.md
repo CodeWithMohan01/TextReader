@@ -47,9 +47,10 @@ This simple Text-to-speech (TTS) application was created using Python's tkinter 
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![image](https://github.com/CodeWithMohan01/TextReader/assets/72215741/93e84c55-1f5b-45bc-b210-1babfd25c68d)
+![image](https://github.com/CodeWithMohan01/TextReader/assets/72215741/377cb4dd-d78d-4774-9a02-a4ea192d25fb)
 
-![Screenshot 2](screenshots/screenshot2.png)
+
 
 ## License
 
